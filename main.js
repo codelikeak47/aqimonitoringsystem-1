@@ -4,9 +4,9 @@
     a reference to the project
 */
 
-var API_KEY = "grandeurktso04c509be01xtfjp7enlc";
-var ACCESS_KEY = "accessku9sk8t800by01t5ci9icuni";
-var ACCESS_TOKEN = "eyJ0b2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNkltRmpZMlZ6YzJ0MU9YTnJPSFE0TURCaWVUQXhkRFZqYVRscFkzVnVhU0lzSW5SNWNHVWlPaUpoWTJObGMzTWlMQ0pwWVhRaU9qRTJNek14TnpnNU1qRjkuSjhHbXo1WHpIdjh4M19ZVTQ3a0pqVUQ4cUdOUkRYX3Z1TjQ1ZU1mT3FqRSJ9";
+var API_KEY = "YOUR API KEY;
+var ACCESS_KEY = "YOUR ACCESS KEY";
+var ACCESS_TOKEN = "YOUR ACCESS TOKEN";
 var project = grandeur.init(API_KEY, ACCESS_KEY, ACCESS_TOKEN);
 var datastore = project.datastore();
 
